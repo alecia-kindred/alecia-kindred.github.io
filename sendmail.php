@@ -22,7 +22,7 @@
 
 	if(@mail($to,$subject,$message,$headers))
 	{
-		print "<script>document.location.href='thanks.php';</script>";
+		print "<script>document.location.href='thanks.html';</script>";
 	} else {
 		echo "Error! Please try again.";
 	}
