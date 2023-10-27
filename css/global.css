@@ -1681,7 +1681,7 @@ input.chk { display: none; }
     border-color: #767676 transparent transparent transparent;
     position: absolute;
     top: 0;
-    right: -10px;
+    right: -9px;
 }
 
 .experience-block .icon {
