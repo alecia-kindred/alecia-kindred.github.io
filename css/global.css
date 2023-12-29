@@ -800,6 +800,15 @@ header .container .logo svg line {
     margin: 10px 0;
     overflow: hidden;
   }
+  .portfolio .case_study .overlay {
+    display: flex;
+    align-items: center;
+    height: 125px;
+    bottom: 0;
+  }
+  .portfolio .case_study p {
+    display: block;
+  }
 }
 @media all and (max-width: 500px) {
   .portfolio .case_study {
